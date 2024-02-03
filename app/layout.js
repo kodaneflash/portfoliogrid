@@ -17,7 +17,7 @@ import Footer from "./components/Footer";
 
 export const metadata = {
   title: "James Archer - Portfolio",
-  description: "My portfolio sitr",
+  description: "My portfolio site",
 };
 
 export default function RootLayout({ children }) {
