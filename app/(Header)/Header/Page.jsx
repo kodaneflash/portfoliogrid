@@ -179,10 +179,10 @@ function HeaderPage() {
             <p className="text-[#828282] text-xs">Software Developer, Founder</p>
           </div>
         </div>
-
+0
         <div>
           <button className="flex w-40 items-center justify-between border border-neutral-600 rounded-full p-1 px-5">
-            <span className="text-xs">Buy my Template</span>
+            <span className="text-xs">Read my Blog</span>
             <PiArrowRightThin />
           </button>
         </div>

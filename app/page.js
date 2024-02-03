@@ -71,8 +71,10 @@ function Homepage() {
             <div className="w-full h-[0.9px] dark:bg-neutral-600 bg-neutral-400/60 mt-1 top-7  " />
             <div className="">
               <p className="text-xs font-semibold max-sm:mt-16 sm:mt-4  ">
-                Available for freelance <br /> design projects. Hit me up <br />{" "}
-                for a collab 🦾
+                I have pioneered the fusion of artificial intelligence with
+                business analytics, championing the use of technology as an
+                engine for innovation. My dedication is to advancing AI to forge
+                transformative solutions that elevate industries.
               </p>
 
               <button className="text-xs flex w-full items-center justify-between border dark:border-neutral-600 border-neutral-400/60  mt-3 rounded-full p-1 px-2 dark:bg-neutral-700/40 sm:w-full">
@@ -117,13 +119,14 @@ function Homepage() {
             {/* Starts */}
             <div className="flex gap-x-3 mt-16 px-2  ">
               <p className="dark:text-neutral-400  text-xs w-20 shrink-0  ">
-                2002 -- 2012
+                2018 - 2022
               </p>
               <div>
-                <h4 className="text-xs font-bold">Creative Studio Owner</h4>
+                <h4 className="text-xs font-bold"> Akkio - Co-Founder & CEO</h4>
                 <p className="text-[11px] text-neutral-500">
-                  Self-employed at my own creative studio, delivering innovative
-                  design solutions and giving value to your brand experience.
+                  As Co-founder and CEO, focused on integrating AI into business
+                  intelligence, driving innovation, and leveraging technology
+                  for strategic growth.
                 </p>
               </div>
             </div>
