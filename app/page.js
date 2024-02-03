@@ -40,7 +40,7 @@ function Homepage() {
           <div className=" absolute w-full p-2 z-10">
             <div className="flex justify-between items-center ">
               <p className="text-xs">Location</p>
-              <p className="text-neutral-500 text-xs ">New York</p>
+              <p className="text-neutral-500 text-xs ">Tampa</p>
             </div>
             <div className="w-full h-[0.9px] dark:bg-neutral-600 bg-neutral-400/60 mt-1 top-7  " />
           </div>
@@ -98,11 +98,8 @@ function Homepage() {
 
           <div className="mt-14 px-3 pb-3">
             <p className="text-xs font-semibold   leading-5">
-              Am Joscript Stone, an adventurous Creative Director based in the
-              vibrant city of San Francisco. With a keen eye for aesthetics, a
-              passion for innovation, and a drive for designs that leaves a
-              lasting impact. let's collaborate and bring your creative visions
-              to life
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto
+              optio vel officia.
             </p>
           </div>
         </motion.div>
@@ -486,8 +483,8 @@ function Homepage() {
               />
 
               <div className="">
-                <p className="text-xs">JoScript</p>
-                <p className="text-xs">Founder, Joscript</p>
+                <p className="text-xs">James Archer</p>
+                <p className="text-xs">Founder, James Archer</p>
               </div>
             </div>
           </div>
@@ -504,7 +501,7 @@ function Homepage() {
               <div className="w-full h-[0.9px] dark:bg-neutral-600 bg-neutral-400/60 mt-1 top-7  " />
             </div>
             <div className="mt-10  w-full flex justify-center items-center">
-              <h1 className="text-8xl">17</h1>
+              <h1 className="text-8xl">5</h1>
             </div>
           </motion.div>
           <div className="dark:bg-[#1E1E1E] bg-white border dark:border-neutral-600 border-neutral-400/60 shadow-xl rounded-lg h-44 p-2 relative z-40">
