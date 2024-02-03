@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import "./globals.css";
 // import { Inter } from "next/font/google";
 import Theming from "@/components/providers/Theme";
@@ -17,20 +18,35 @@ import Footer from "./components/Footer";
 
 export const metadata = {
   title: "James Archer - Portfolio",
-  description: "My portfolio site",
+  description: "My Portfolio Website",
+  ogTitle: "James Archer - Portfolio",
+  ogDescription: "Welcome to my portfolio site where I showcase my work & projects.",
+  ogImage: "https://jamesarcher.io/1.png",
+  canonical: "https://jamesarcher.io",
 };
+
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body>
-        {/* <body className={`${font.className} `}> */}
-        <Theming>
-          <HeaderPage />
-          {children}
-          <Footer />
-        </Theming>
-      </body>
-    </html>
+    <>
+      <Head>
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
+        <meta property="og:title" content={metadata.ogTitle} />
+        <meta property="og:description" content={metadata.ogDescription} />
+        <meta property="og:image" content={metadata.ogImage} />
+        <link rel="canonical" href={metadata.canonical} />
+        {/* Add any additional head elements here */}
+      </Head>
+      <html lang="en">
+        <body>
+          <Theming>
+            <HeaderPage />
+            {children}
+            <Footer />
+          </Theming>
+        </body>
+      </html>
+    </>
   );
 }
