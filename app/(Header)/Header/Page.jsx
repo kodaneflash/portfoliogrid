@@ -181,12 +181,12 @@ function HeaderPage() {
         </div>
 
         <div>
-          <button className="flex w-40 items-center justify-between border border-neutral-600 rounded-full p-1 px-5">
-            <span className="text-xs">Buy my Template</span>
-            <PiArrowRightThin />
-          </button>
-        </div>
-      </nav>
+        <a href="https://devblock.pro" target="_blank" rel="noopener noreferrer" className="flex w-40 items-center justify-between border border-neutral-600 rounded-full p-1 px-5">
+      <span className="text-xs">Read my Blog</span>
+      <PiArrowRightThin />
+    </a>
+  </div>
+</nav>
 
       <div className="mx-auto w-full max-w-[1120px] mt-4 flex justify-center relative">
         <div className="w-full h-[0.4px] dark:bg-neutral-600 bg-neutral-400/60 mt-1 top-7  " />

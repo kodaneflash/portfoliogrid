@@ -75,10 +75,13 @@ function Homepage() {
                 for a collab 🦾
               </p>
 
-              <button className="text-xs flex w-full items-center justify-between border dark:border-neutral-600 border-neutral-400/60  mt-3 rounded-full p-1 px-2 dark:bg-neutral-700/40 sm:w-full">
+              <a
+                href="mailto:James@nexacore.io"
+                className="text-xs flex w-full items-center justify-between border dark:border-neutral-600 border-neutral-400/60 mt-3 rounded-full p-1 px-2 dark:bg-neutral-700/40 sm:w-full"
+              >
                 <span>Contact me</span>
                 <PiArrowUpRight />
-              </button>
+              </a>
             </div>
           </div>
         </div>
