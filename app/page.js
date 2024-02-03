@@ -94,15 +94,17 @@ function Homepage() {
           <div className=" absolute w-full p-2 z-10">
             <div className="flex justify-between items-center ">
               <p className="text-xs">About</p>
-              <p className="text-neutral-500 text-xs ">Joscript Stone</p>
+              <p className="text-neutral-500 text-xs ">James Archer</p>
             </div>
             <div className="w-full h-[0.9px] dark:bg-neutral-600 bg-neutral-400/60 mt-1 top-7  " />
           </div>
 
           <div className="mt-14 px-3 pb-3">
             <p className="text-xs font-semibold   leading-5">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto
-              optio vel officia.
+              Software Developer and Founder that’s passionate about leveraging
+              technical expertise to identify creative solutions that improve
+              operational efficiency. Co-Founded multiple successful startups
+              leading to multiple Series A funding rounds.
             </p>
           </div>
         </motion.div>
@@ -137,12 +139,14 @@ function Homepage() {
 
             <div className="flex  gap-x-3 px-2 relative ">
               <p className="dark:text-neutral-400  text-xs w-20 shrink-0  ">
-                2020 -- 2022
+                2022 -- 2023
               </p>
               <div>
-                <h4 className="text-xs font-bold">Nike Headquarters</h4>
+                <h4 className="text-xs font-bold">Guidee - Director</h4>
                 <p className="text-[11px] text-neutral-500">
-                  Designer & Creative Director
+                  Led the engineering behind Guidee, a generative AI platform
+                  for business that helps teams create video documentation.
+                  Series A.
                 </p>
               </div>
             </div>
@@ -153,12 +157,14 @@ function Homepage() {
 
             <div className="flex  gap-x-3  px-2 relative ">
               <p className="dark:text-neutral-400  text-xs w-20 shrink-0  ">
-                2018 -- 2020
+                2018 -- 2022
               </p>
               <div>
-                <h4 className="text-xs font-bold">Spotify</h4>
+                <h4 className="text-xs font-bold">Akkio - Co-Founder & CEO</h4>
                 <p className="text-[11px] text-neutral-500">
-                  Designer & Art Director.
+                  As Co-founder and CEO, focused on integrating AI into business
+                  intelligence, driving innovation, and leveraging technology
+                  for strategic growth.
                 </p>
               </div>
             </div>
