@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 import {
   PiArrowUpRight,
   PiLinkedinLogoThin,
-  PiBehanceLogoThin,
   PiArrowDownThin,
   PiGithubLogoThin,
 } from "react-icons/pi";
@@ -361,12 +360,12 @@ function Homepage() {
                   <PiGithubLogoThin className="text-xl" />
                 </Link>
               </Tooltip>
-              <Tooltip showArrow={true} content="Behance" color="#161616">
+              <Tooltip showArrow={true} content="LinkedIn" color="#161616">
                 <Link
-                  href={"https://twitter.com/Joenaldo"}
+                  href={"https://linkedin.com/in/archermjames/"}
                   className="rounded-full border dark:border-neutral-600 cursor-pointer border-neutral-400/60 p-2 w-16 h-16 flex items-center justify-center"
                 >
-                  <PiBehanceLogoThin className="text-xl" />
+                  <PiLinkedinLogoThin className="text-xl" />
                 </Link>
               </Tooltip>
               <Tooltip showArrow={true} content="E-mail" color="#161616">
