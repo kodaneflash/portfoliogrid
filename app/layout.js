@@ -17,9 +17,9 @@ import Footer from "./components/Footer";
 // });
 
 export const metadata = {
-  title: "James Archer - Portfolio",
-  description: "My Portfolio Website",
-  ogTitle: "James Archer - Portfolio",
+  title: "James Archer - Portfolio Website",
+  description: "Welcome to my portfolio site where I showcase my work & projects.",
+  ogTitle: "James Archer - Portfolio Website",
   ogDescription: "Welcome to my portfolio site where I showcase my work & projects.",
   ogImage: "https://jamesarcher.io/1.png",
   canonical: "https://jamesarcher.io",
