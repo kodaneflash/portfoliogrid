@@ -54,7 +54,7 @@ function Homepage() {
         <div className="dark:bg-[#1E1E1E] bg-white border dark:border-neutral-600 border-neutral-400/60 shadow-xl relative rounded-lg sm:h-40  ">
           <div className=" absolute w-full p-2">
             <div className="flex justify-between items-center ">
-              <p className="text-xs">Mode</p>
+              <p className="text-xs">Contact</p>
               <div>
                 <span>
                   <span className="mr-1.5 flex justify-center h-2 w-2 items-center ">
@@ -71,8 +71,8 @@ function Homepage() {
             <div className="w-full h-[0.9px] dark:bg-neutral-600 bg-neutral-400/60 mt-1 top-7  " />
             <div className="">
               <p className="text-xs font-semibold max-sm:mt-16 sm:mt-4  ">
-                Available for freelance <br /> design projects. Hit me up <br />{" "}
-                for a collab 🦾
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto
+                optio vel officia.
               </p>
 
               <a

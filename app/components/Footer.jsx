@@ -11,7 +11,7 @@ function Footer() {
             <p>James Archer</p>
           </div>
 
-          <p>Created by James Archer</p>
+          <p>All rights reserved</p>
         </div>
       </div>
     </div>

@@ -176,7 +176,7 @@ function HeaderPage() {
 
           <div>
             <h4 className="text-xs ">James Archer</h4>
-            <p className="text-[#828282] text-xs">Software Developer, Founder</p>
+            <p className="text-[#828282] text-xs">Founder & Software Engineer</p>
           </div>
         </div>
 
