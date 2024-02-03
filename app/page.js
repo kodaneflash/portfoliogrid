@@ -100,7 +100,7 @@ function Homepage() {
 
           <div className="mt-14 px-3 pb-3">
             <p className="text-xs font-semibold   leading-5">
-              Software Developer and Founder that’s passionate about leveraging
+              Software Engineer and Founder that’s passionate about leveraging
               technical expertise to identify creative solutions that improve
               operational efficiency. Co-Founded multiple successful startups
               leading to multiple Series A funding rounds.
@@ -280,7 +280,7 @@ function Homepage() {
                 <div>
                   <p className="text-xs">Fusion Pro Presentation</p>
                   <p className="text-xs">
-                    I've come up with something truly unique
+                    Lorem ipsum dolor sit, amet consectetur.
                   </p>
                 </div>
 
@@ -302,7 +302,7 @@ function Homepage() {
                 <div>
                   <p className="text-xs">Fusion Pro Presentation</p>
                   <p className="text-xs">
-                    I've come up with something truly unique
+                    Lorem ipsum dolor sit, amet consectetur.
                   </p>
                 </div>
 
@@ -324,7 +324,7 @@ function Homepage() {
                 <div>
                   <p className="text-xs">Fusion Pro Presentation</p>
                   <p className="text-xs">
-                    I've come up with something truly unique
+                    Lorem ipsum dolor sit, amet consectetur.
                   </p>
                 </div>
 
@@ -360,7 +360,7 @@ function Homepage() {
                   <PiGithubLogoThin className="text-xl" />
                 </Link>
               </Tooltip>
-              <Tooltip showArrow={true} content="LinkedIn" color="#161616">
+              <Tooltip showArrow={true} content="Linkedn" color="#161616">
                 <Link
                   href={"https://linkedin.com/in/archermjames/"}
                   className="rounded-full border dark:border-neutral-600 cursor-pointer border-neutral-400/60 p-2 w-16 h-16 flex items-center justify-center"
@@ -413,8 +413,8 @@ function Homepage() {
                 Since 2023
               </p>
               <div>
-                <h4 className="text-xs font-bold">WebFlow</h4>
-                <p className="text-[11px] text-neutral-500">Official partner</p>
+                <h4 className="text-xs font-bold">Lorem ipsum</h4>
+                <p className="text-[11px] text-neutral-500">Lorem ipsum</p>
               </div>
             </div>
 
@@ -425,8 +425,8 @@ function Homepage() {
             <div className="flex  gap-x-3 px-2 relative ">
               <p className="text-white  text-xs w-20 shrink-0  ">Since 2021</p>
               <div>
-                <h4 className="text-xs font-bold">Awwward</h4>
-                <p className="text-[11px] text-neutral-500">Jury Member</p>
+                <h4 className="text-xs font-bold">Lorem ipsum</h4>
+                <p className="text-[11px] text-neutral-500">Lorem ipsum</p>
               </div>
             </div>
 
